@@ -7,3 +7,10 @@
 ***Proud to be a jew in bold and italic***
 
 > Love your fellow jew
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
