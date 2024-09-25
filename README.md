@@ -1,2 +1,2 @@
 # hello-world2
-To practice github flow
+Proud to be a jew 2
